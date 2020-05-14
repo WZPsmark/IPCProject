@@ -1,0 +1,4 @@
+rootProject.name='IPCDemo'
+include ':app'
+include ':sk_ipc'
+include ':client'
